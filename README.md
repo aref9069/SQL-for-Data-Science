@@ -151,9 +151,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## 👤 Author
-
-Developed by **Sahar Ebrahimi Bajgani**
-
-Ph.D. in Operations & Supply Chain Management  
-Focus: Data Analytics, Machine Learning, and Real-World Applications
